@@ -1,0 +1,5 @@
+id,produto,quantidade,preco_unitario,data
+1,Notebook,2,3500.00,2023-01-05
+2,Teclado,5,250.00,2023-01-05
+3,Mouse,10,150.00,2023-01-06
+4,Monitor,1,1200.00,2023-01-07
